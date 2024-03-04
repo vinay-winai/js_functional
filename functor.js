@@ -1,3 +1,5 @@
+// https://codepen.io/drboolean/pen/poodxOm?editors=0010
+
 const Box = x =>
 ({
   map: f => Box(f(x)),
